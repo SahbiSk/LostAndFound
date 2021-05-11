@@ -1,3 +1,20 @@
 body {
-    background-color: lightgray;
+  background: var(--color-grey-light);
+}
+
+:root {
+  --color-white: #ffffff;
+
+  --color-grey-light: #f7f7f7;
+  --color-grey-lm: #d3d3d3;
+  --color-grey-dark: #696969;
+
+  --color-slate-dark: #29303b;
+
+  --color-black: #000000;
+
+  --color-blue-light: #1dace3;
+  --color-blue-dark: #001a49;
+
+  --color-pink-dark: #e9327c;
 }
